@@ -20,6 +20,6 @@ Q&A:
 
 由于 该项目方向与我之前写的一个项目 想要发展的方向接近，所以我将该项目直接接入了我的 一个开源项目，作为一个 独立的 应用广场中的应用存在
 
-[https://github.com/TheEterna/real-agent] 后端
+[https://github.com/TheEterna/real-agent](后端)
 
-[https://github.com/TheEterna/real-agent-font] 前端
+[https://github.com/TheEterna/real-agent-font](前端)
