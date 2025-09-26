@@ -16,3 +16,10 @@ Q&A:
 4. ！！ 应该真正的实现 Agent，这也是我在不断摸索的，简单讲，不只是通过 System Prompt 去简单调控，这并不是真正的智能体，应该深度贯彻角色理念，比如说 一个agent 应该具有自主决策能力，比如 “柯南” 就应该有独有的 api 调用能力，独有的柯南系列知识库，独有的缜密COT Agent 框架，实现真正 role-play 智能体 ！！
 
 ### 关键技术： tool/function calling, web, vue/react
+
+
+由于 该项目方向与我之前写的一个项目 想要发展的方向接近，所以我将该项目直接接入了我的 一个开源项目，作为一个 独立的 应用广场中的应用存在
+
+[https://github.com/TheEterna/real-agent] 后端
+
+[https://github.com/TheEterna/real-agent-font] 前端
